@@ -1,0 +1,17 @@
+{
+  "name": "gangg111-plugins",
+  "owner": {
+    "name": "gangg111"
+  },
+  "plugins": [
+    {
+      "name": "tool-testing",
+      "source": "./plugins/tool-testing",
+      "description": "Hook PostToolUse: narzędzie w tools/ musi mieć zielony test; pilnuje asercji i pominiętych testów.",
+      "author": {
+        "name": "gangg111"
+      }
+    }
+  ],
+  "description": "Pluginy Claude Code użytkownika gangg111."
+}

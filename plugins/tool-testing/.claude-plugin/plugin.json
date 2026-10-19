@@ -1,0 +1,8 @@
+{
+  "name": "tool-testing",
+  "version": "0.1.0",
+  "description": "Hook PostToolUse: narzędzie w tools/ musi mieć zielony test; pilnuje asercji i pominiętych testów.",
+  "author": {
+    "name": "gangg111"
+  }
+}
